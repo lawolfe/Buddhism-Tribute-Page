@@ -1,0 +1,62 @@
+body {
+  background-image: url("https://www.walldevil.com/wallpapers/a14/background-black-shaolin-meditation-martial-dark-tibet-warriors-monk-wallpapers-images.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #fff;
+}
+
+.wheel {
+  float: left;
+  opacity: 0.5;
+  z-index: 1;
+  width: 45%;
+  margin-bottom: 15px;
+}
+
+.intro {
+  display: inline-flex;
+  float: right;
+  padding: 5px 15px;
+}
+
+.intro p {
+  padding-right: 5%;
+}
+
+.twitter-timeline {
+  display: inline;
+  float: right;
+}
+
+.noble-four {
+  background-color: rgba(70, 130, 180, 0.25);
+  padding: 5px 50% 5px 15px;
+  /* padding-bottom: 5px; */
+  clear: left;
+}
+
+.noble-four h2 {
+  width: 100%;
+  
+}
+
+.noble-eight {
+  background-color: rgba(207, 181, 59, 0.25);
+  padding: 5px 20px;
+  padding-bottom: 5px;
+}
+
+li {
+  list-style-type: upper-roman;
+}
+
+.learn-more {
+  background-color: rgba(70, 130, 180, 0.25);
+  padding: 5px 15px;
+}
+
+.foot {
+  text-align: center;
+  font-size: .75em;
+}
